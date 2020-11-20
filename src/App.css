@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.complete {
+  color: black;
+  text-decoration: line-through;
+}
+.todoItem {
+  margin-top: 2rem;
+}
